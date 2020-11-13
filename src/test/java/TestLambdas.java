@@ -4,6 +4,6 @@ public class TestLambdas {
 
     @Test
     public void test1() {
-        
+
     }
 }
